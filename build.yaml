@@ -19,10 +19,10 @@ shield: ["sofle-e_left lpm_view","sofle-e_right lpm_view"]
 
 snippet: ["studio-rpc-usb-uart"]
 
-include:
-  - board: corne-v4_left
-    shield: lpm_view
-    snippet: studio-rpc-usb-uart
-  - board: corne-v4_right
-    shield: lpm_view
-    snippet: studio-rpc-usb-uart
+# include:
+#   - board: corne-v4_left
+#     shield: lpm_view
+#     snippet: studio-rpc-usb-uart
+#   - board: corne-v4_right
+#     shield: lpm_view
+#     snippet: studio-rpc-usb-uart
