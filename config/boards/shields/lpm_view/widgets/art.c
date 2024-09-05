@@ -5,6 +5,7 @@
  * SPDX-License-Identifier: MIT
  * 屏幕144X72, 状态栏20X72
  */
+ // 144X71,`124X72
 
 #include <lvgl.h>
 
