@@ -13,8 +13,8 @@
 #define BASE 0
 #define LOWER 1
 #define RAISE 2
-#define ADJUST 3
-#define SETTING 4
+#define MICRO 3
+#define ADJUST 4
 
 &mt {
     tapping-term-ms = <200>;
