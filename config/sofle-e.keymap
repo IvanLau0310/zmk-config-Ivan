@@ -114,7 +114,7 @@
         };
 
         micro_layer {
-            display-name = "Setting";
+            display-name = "Micro";
             bindings = <
 &trans  &trans  &trans       &trans       &trans       &trans       &trans          &trans   &trans  &trans   &trans     &trans    &trans     &trans
 &trans  &trans  &kp LC(F14)  &kp LC(F15)  &kp LC(F16)  &kp LC(F17)  &trans          &trans   &trans  &trans   &trans     &trans    &trans     &trans
@@ -127,8 +127,6 @@
             sensor-bindings =
                 <&inc_dec_kp C_VOL_DN C_VOL_UP>,
                 <&inc_dec_kp C_BRI_DEC C_BRI_INC>;
-
-            label = "Micro";
         };
 
         adjust_layer {
