@@ -54,7 +54,7 @@
     behaviors {
         btclr: btclr {
             compatible = "zmk,behavior-mod-morph";
-            label = "Clear bluetooth profile when hold any mod keys";
+            label = "Clear blu profile mod-morph";
             bindings = <&none>, <&bt BT_CLR>;
 
             #binding-cells = <0>;
