@@ -58,7 +58,7 @@
             bindings = <&none>, <&bt BT_CLR>;
 
             #binding-cells = <0>;
-            mods = <(MOD_LCTL|MOD_LSFT|MOD_RSFT|MOD_RCTL)>;
+            mods = <(MOD_LCTL|MOD_LSFT|MOD_LGUI|MOD_LALT|MOD_RSFT|MOD_RCTL|MOD_RALT|MOD_RGUI)>;
         };
     };
 
