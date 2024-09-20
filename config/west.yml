@@ -6,10 +6,12 @@ manifest:
       url-base: https://github.com/badjeff
     - name: yangxing
       url-base: https://github.com/yangxing844
+    - name: zmkofficial
+      url-base: https://github.com/zmkfirmware
   projects:
     - name: zmk
-      remote: yangxing
-      revision: remap-with-mouse
+      remote: zmkofficial
+      revision: main
       import: app/west.yml
     - name: zmk-pmw3610-driver
       remote: badjeff
